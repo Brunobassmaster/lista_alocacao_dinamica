@@ -1,6 +1,6 @@
 /*1) Escreva um programa que mostre o tamanho em byte que cada tipo de dados ocupa na
-memória: char, int, float, double.1) Escreva um programa que mostre o tamanho em byte que cada tipo de dados ocupa na
-memória: char, int, float, double.*/
+memÃ³ria: char, int, float, double.1) Escreva um programa que mostre o tamanho em byte que cada tipo de dados ocupa na
+memÃ³ria: char, int, float, double.*/
 
 #include <stdio.h>
 
